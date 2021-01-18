@@ -1,0 +1,11 @@
+A faire pour Vendredi 22/01/21
+
+** Recherche générale à propos des labyrinthes
+--> Qu'est ce qu'un labyrinthe?
+--> Comment le représenter (Data Structure)
+--> Quels outils pour la représentation graphique par la suite? (pour commencer à faire des tuto)
+--> Chercher chacun 3 applications pour le travail sur les labyrinthes.
+
+** Recherche sur les laby parfaits :
+--> Quel intérêt dans notre étude?
+--> quelques exemples d'avantages
